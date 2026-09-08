@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=helenvturner12345)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=helenvturner12345&background=0D1117&border=0D1117&stroke=58A6FF&ring=F78166&fire=F78166&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&hide_border=true)](https://git.io/streak-stats)
